@@ -1,4 +1,4 @@
-# 📈 Stock Portfolio Manager OOAD Project (Java)
+<H1>📈 Stock Portfolio Manager OOAD Project (Java)</H1>
 
 A **console-based Stock Portfolio Manager** that simulates an **NSE stock market environment**.
 Built using **core Object-Oriented Programming (OOP)** principles and **design patterns** as part of an OOAD coursework project.
